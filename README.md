@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**whitezhang/whitezhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile.
 
-Here are some ideas to get you started:
+<img align="right" width="180" src="空洞骑士头像图片链接">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Visitor Count
+
+
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <!-- 语言统计 -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitezhang&layout=compact">
+  <!-- 数据统计 -->
+  <img width="400" src="https://komarev.com/ghpvc/?username=whitezhang&show_icons=true">
+</div>
+
+## Listen to me...
+- 🚩 I'm a Software Engineer & Architect
+- 🎯 I used to be an Algorithm Engineer
+- 📩 Reach me by [Send me an email](mailto:whitezhangv5@hotmail.com)
+- 😊 Have fun
+- To be continued ...
+
+## 🛠 Tech Stack
+Languages: C/C++ | Python
